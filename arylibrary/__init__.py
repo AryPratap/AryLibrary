@@ -1,1 +1,1 @@
-from arylibrary.SamMultiply import Multiplication
+from arylibrary.SamMultiply import *

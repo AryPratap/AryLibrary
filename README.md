@@ -17,4 +17,11 @@ multiplication = Multiplication(2)
 
 # Call the multiply method
 result = multiplication.multiply(5)
+
+
+# Call the addition method
+adder = Addition(10)
+
+result = adder.add(10)
+
 ```
